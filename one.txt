@@ -2,3 +2,8 @@ first one
 second one for unstage
 forth
 one
+two
+three
+
+
+add stash1
